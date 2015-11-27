@@ -1,4 +1,4 @@
-#'base-16 bright dark' syntax theme for the fish shell
+#'base16 bright dark' syntax theme for the fish shell
 
 ## base16?
 
